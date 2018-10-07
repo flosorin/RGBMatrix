@@ -2,7 +2,7 @@
 
 /*
    Arduino library to allow controlling RGB LED panel 32x32 scan rate 1/8
-   Panel needs to be continuosly redrawn in order to power LEDs.
+   Panel needs to be continuously redrawn in order to power LEDs.
 
    Pins:
    R1,R2 - red led for upper & lower half
