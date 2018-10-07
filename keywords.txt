@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map RGBMatrix
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RGBMatrix	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+clearDisplay	KEYWORD2
+updateDisplay	KEYWORD2
+drawPixel		KEYWORD2
+clearPixel		KEYWORD2
+drawLine		KEYWORD2
+clearLine		KEYWORD2
+drawColumn		KEYWORD2
+clearColumn		KEYWORD2
